@@ -1,8 +1,3 @@
-[gd_scene load_steps=3 format=3 uid="uid://ct3fxlvj1q7qg"]
+[gd_scene format=3 uid="uid://d3ei2rr1d4l42"]
 
-[ext_resource type="Texture2D" uid="uid://bxq8hetjrp6po" path="res://icon.svg" id="1_uvfvp"]
-[ext_resource type="Script" uid="uid://gr8e8soqqhid" path="res://sprite_test.gd" id="2_ds13r"]
-
-[node name="SpriteTest" type="Sprite2D"]
-texture = ExtResource("1_uvfvp")
-script = ExtResource("2_ds13r")
+[node name="BigAsteroid" type="Area2D"]
